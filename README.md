@@ -12,12 +12,11 @@ Working node / npm installation
 
 
 ## Setup
-Run in Terminal:
-1) configure the proxy.js file [/src/config/proxy.js](src/config/proxy.js)
-2) run `npm install`
+1) configure the proxy.js file [/src/config/proxy.js](src/config/proxy.js) according to your proxyserver
+2) run `npm install` in terminal
 
-### in Dev-Mode
-Run: ``npm run dev``
+### In Dev-Mode
+run: ``npm run dev``
 
-### in Production
-Run: ``npm run build``
+### In Production
+run: ``npm run build``
