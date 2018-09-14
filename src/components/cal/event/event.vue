@@ -66,6 +66,7 @@
         box-shadow: 0px 0px 5px rgba(51, 51, 51, 0.7);
         padding: 0px;
         margin: 0px 0px 20px;
+        overflow: hidden;
     }
 
     time {
